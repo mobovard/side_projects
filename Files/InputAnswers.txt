@@ -1,0 +1,50 @@
+Q1A1 | D | B
+Q1A2 | L | F
+Q1A3 | S
+Q1A4 | C
+Q2A1 | D | L
+Q2A2 | C
+Q2A3 | S
+Q2A4 | F
+Q3A1 | D
+Q3A2 | S
+Q3A3 | C
+Q3A4 | B
+Q3A5 | F
+Q4A1 | D
+Q4A2 | D | S
+Q4A3 | C | F
+Q4A4 | B
+Q4A5 | C | F | L
+Q5A1 | S
+Q5A2 | D | S | B
+Q5A3 | D | D
+Q5A4 | L
+Q5A5 | F
+Q5A6 | C
+Q6A1 | C | D | B | S
+Q6A2 | F | L
+Q7A1 | S 
+Q7A2 | D
+Q7A3 | F | L
+Q7A4 | D | D | B
+Q8A1 | D
+Q8A2 | S
+Q8A3 | S
+Q8A4 | F
+Q8A5 | C
+Q8A6 | B
+Q9A1 | L
+Q9A2 | F
+Q9A3 | L
+Q9A4 | L
+Q10A1 | D | D
+Q10A2 | S | B
+Q10A3 | S
+Q10A4 | D
+Q11A1 | D
+Q11A2 | F
+Q11A3 | S
+Q11A4 | C
+Q11A5 | L
+Q11A6 | B
